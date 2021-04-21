@@ -4,5 +4,6 @@ using namespace std;
 
 int main(){
     cout<<"Welcome to Join github";
+    cout<<"Hello World";
     return 0;
 }
